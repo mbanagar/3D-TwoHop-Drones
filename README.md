@@ -16,6 +16,6 @@ Parts of [1] was presented at the 2021 IEEE Globecom in Madrid, Spain [2]. The r
 
 ### References
 
-[1] M. Banagar and H. S. Dhillon, “3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals,” <i>IEEE Transactions on Wireless Communications</i>, to appear, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9712177) and [ArXiv](https://arxiv.org/abs/2105.07055).
+[1] M. Banagar and H. S. Dhillon, “3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals,” <i>IEEE Transactions on Wireless Communications</i>, vol. 21, no. 8, pp. 6417-6433, Aug. 2022, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9712177) and [ArXiv](https://arxiv.org/abs/2105.07055).
 
 [2] M. Banagar and H. S. Dhillon, “Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs,” in <i>Proceedings of IEEE Global Communications Conference (Globecom)</i>, December 2021, pp. 1-6, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9685132).
